@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+.section {
+  margin-bottom: 20px;
+}
+
+.driver {
+  list-style: none;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.passenger {
+  list-style: none;
+  margin: 5px 0;
+}
+
+.delete {
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.add-passenger {
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.delete-driver {
+  cursor: pointer;
+  color: red;
+  margin-left: 10px;
+}
+
+.input-container {
+  margin-top: 10px;
+}
